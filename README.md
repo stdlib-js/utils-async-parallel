@@ -52,13 +52,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import parallel from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-parallel@deno/mod.js';
+import parallel from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-parallel@v0.1.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-parallel@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-parallel@v0.1.0-deno/mod.js';
 ```
 
 #### parallel( fcns, \[options,] done )
@@ -229,7 +229,7 @@ run( done );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import parallel from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-parallel@deno/mod.js';
+import parallel from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-parallel@v0.1.0-deno/mod.js';
 
 function foo( clbk ) {
     setTimeout( onTimeout, 300 );
