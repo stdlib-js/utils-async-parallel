@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-async-parallel",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Execute a set of functions in parallel.",
   "license": "Apache-2.0",
   "author": {
@@ -37,20 +37,20 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-has-own-property": "^0.2.1",
-    "@stdlib/assert-is-function": "^0.2.1",
+    "@stdlib/assert-has-own-property": "^0.2.2",
+    "@stdlib/assert-is-function": "^0.2.2",
     "@stdlib/assert-is-function-array": "^0.2.1",
-    "@stdlib/assert-is-plain-object": "^0.2.1",
-    "@stdlib/assert-is-positive-integer": "^0.2.1",
-    "@stdlib/constants-float64-pinf": "^0.2.1",
-    "@stdlib/string-format": "^0.2.1",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.1",
+    "@stdlib/assert-is-plain-object": "^0.2.2",
+    "@stdlib/assert-is-positive-integer": "^0.2.2",
+    "@stdlib/constants-float64-pinf": "^0.2.2",
+    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
     "debug": "^2.6.9",
-    "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/utils-async-parallel": "github:stdlib-js/utils-async-parallel#main",
-    "@stdlib/utils-noop": "^0.2.1",
+    "@stdlib/utils-noop": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
