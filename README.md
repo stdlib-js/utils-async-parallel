@@ -52,13 +52,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import parallel from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-parallel@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-async-parallel/tags). For example,
+
+```javascript
 import parallel from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-parallel@v0.1.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-parallel@v0.1.0-esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-parallel@esm/index.mjs';
 ```
 
 #### parallel( fcns, \[options,] done )
@@ -234,7 +239,7 @@ run( done );
 <body>
 <script type="module">
 
-import parallel from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-parallel@v0.1.0-esm/index.mjs';
+import parallel from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-async-parallel@esm/index.mjs';
 
 function foo( clbk ) {
     setTimeout( onTimeout, 300 );
