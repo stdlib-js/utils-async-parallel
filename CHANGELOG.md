@@ -2,31 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="v0.1.0">
+<section class="release" id="unreleased">
 
-## 0.1.0 (2024-07-28)
-
-<section class="features">
-
-### Features
-
--   [`294b868`](https://github.com/stdlib-js/stdlib/commit/294b868248299e6256454efe1853d98ab84ac3f2) - add `utils/async/parallel` [(#1896)](https://github.com/stdlib-js/stdlib/pull/1896)
-
-</section>
-
-<!-- /.features -->
-
-<section class="issues">
-
-### Closed Issues
-
-This release closes the following issue:
-
-[#1811](https://github.com/stdlib-js/stdlib/issues/1811)
-
-</section>
-
-<!-- /.issues -->
+## Unreleased (2024-08-01)
 
 <section class="commits">
 
@@ -34,7 +12,7 @@ This release closes the following issue:
 
 <details>
 
--   [`294b868`](https://github.com/stdlib-js/stdlib/commit/294b868248299e6256454efe1853d98ab84ac3f2) - **feat:** add `utils/async/parallel` [(#1896)](https://github.com/stdlib-js/stdlib/pull/1896) _(by NightKnight, Athan Reines, Philipp Burckhardt, stdlib-bot)_
+-   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
 
 </details>
 
@@ -46,16 +24,23 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 1 person contributed to this release. Thank you to this contributor:
 
 -   Athan Reines
--   NightKnight
--   Philipp Burckhardt
--   stdlib-bot
 
 </section>
 
 <!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.0">
+
+## 0.1.0 (2024-07-28)
+
+No changes reported for this release.
 
 </section>
 
