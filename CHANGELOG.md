@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-09-11)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`3c5fc0d`](https://github.com/stdlib-js/stdlib/commit/3c5fc0d3d544356489d3da56507766eadd556fd1) - **style:** replace tabs with spaces in examples indentation _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.0">
 
 ## 0.1.0 (2024-07-28)
