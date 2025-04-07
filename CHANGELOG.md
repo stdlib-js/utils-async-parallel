@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2025-04-07)
 
 <section class="commits">
 
@@ -68,7 +68,7 @@ This release closes the following issue:
 
 <details>
 
--   [`294b868`](https://github.com/stdlib-js/stdlib/commit/294b868248299e6256454efe1853d98ab84ac3f2) - **feat:** add `utils/async/parallel` [(#1896)](https://github.com/stdlib-js/stdlib/pull/1896) _(by NightKnight, Athan Reines, Philipp Burckhardt, stdlib-bot)_
+-   [`294b868`](https://github.com/stdlib-js/stdlib/commit/294b868248299e6256454efe1853d98ab84ac3f2) - **feat:** add `utils/async/parallel` [(#1896)](https://github.com/stdlib-js/stdlib/pull/1896) _(by Ahmed Atwa, Athan Reines, Philipp Burckhardt, stdlib-bot)_
 
 </details>
 
@@ -82,8 +82,8 @@ This release closes the following issue:
 
 A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Ahmed Atwa
 -   Athan Reines
--   NightKnight
 -   Philipp Burckhardt
 
 </section>
