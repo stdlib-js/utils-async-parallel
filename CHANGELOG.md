@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-12)
+## Unreleased (2025-06-14)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#7350](https://github.com/stdlib-js/stdlib/issues/7350)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`379c3c6`](https://github.com/stdlib-js/stdlib/commit/379c3c63f58517995deb3367e26c6f10bdf6f2eb) - **chore:** fix JavaScript lint errors [(#7355)](https://github.com/stdlib-js/stdlib/pull/7355) _(by Lokesh Ranjan, Athan Reines)_
 -   [`3c5fc0d`](https://github.com/stdlib-js/stdlib/commit/3c5fc0d3d544356489d3da56507766eadd556fd1) - **style:** replace tabs with spaces in examples indentation _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +37,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
+-   Lokesh Ranjan
 -   Philipp Burckhardt
 
 </section>
