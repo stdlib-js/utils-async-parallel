@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-14)
+## Unreleased (2025-09-29)
 
 <section class="issues">
 
@@ -24,6 +24,9 @@ This release closes the following issue:
 
 <details>
 
+-   [`d94514b`](https://github.com/stdlib-js/stdlib/commit/d94514bc9418f5b42df6233204d5005d53af00ca) - **docs:** clean-up TSDoc declaration comments _(by Philipp Burckhardt)_
+-   [`07459d3`](https://github.com/stdlib-js/stdlib/commit/07459d3be48a57aac6cc018cbb456749fad79f6a) - **chore:** remove private annotations _(by Philipp Burckhardt)_
+-   [`a147b7d`](https://github.com/stdlib-js/stdlib/commit/a147b7d6ef754925120fcc7bdec2b40842a3615a) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`379c3c6`](https://github.com/stdlib-js/stdlib/commit/379c3c63f58517995deb3367e26c6f10bdf6f2eb) - **chore:** fix JavaScript lint errors [(#7355)](https://github.com/stdlib-js/stdlib/pull/7355) _(by Lokesh Ranjan, Athan Reines)_
 -   [`3c5fc0d`](https://github.com/stdlib-js/stdlib/commit/3c5fc0d3d544356489d3da56507766eadd556fd1) - **style:** replace tabs with spaces in examples indentation _(by Philipp Burckhardt)_
 
